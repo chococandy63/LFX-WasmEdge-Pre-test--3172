@@ -44,7 +44,7 @@ cargo new burn_app
 cd burn_app
 cargo add burn --features wgpu
 ```
-![init_burn_app.png](images/init_burn_app.png.png)
+![init_burn_app.png](images/init_burn_app.png)
 
 <!-- TOC --><a name="burn-example-code"></a>
 ## Burn Example Code
@@ -161,7 +161,7 @@ wasmedge compile target/wasm32-wasi/release/wasmedge_hyper_client.wasm wasmedge_
 ```
 ![wasm_edge_compile.png](images/wasm_edge_compile.png)
 
-![wasm_edge_run_https.png](images/wasm_edge_run_https.png)
+![wasmedge_run_https.png](images/wasm_edge_run_https.png)
 
 
 
