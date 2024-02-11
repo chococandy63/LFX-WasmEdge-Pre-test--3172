@@ -161,7 +161,7 @@ wasmedge compile target/wasm32-wasi/release/wasmedge_hyper_client.wasm wasmedge_
 ```
 ![wasm_edge_compile.png](images/wasm_edge_compile.png)
 
-![wasmedge_run_https.png](images/wasm_edge_run_https.png)
+![wasmedge_run_https.png](images/wasmedge_run_https.png)
 
 
 
